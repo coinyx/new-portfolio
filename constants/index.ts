@@ -51,11 +51,6 @@ export const Skill_data = [
 
 export const Socials = [
     {
-        name: "Instagram",
-        src: "/instagram.svg",
-        link: "https://www.instagram.com",
-    },
-    {
         name: "Github",
         src: "/gitwhite.png",
         link: "https://github.com/coinyx",
@@ -63,7 +58,7 @@ export const Socials = [
     {
         name: "Linkedin",
         src: "/linkedin.svg",
-        link: "https://www.linkedin.com/in/nikhil-maguwala/",
+        link: "https://www.linkedin.com/in/derrick-davis-602378331",
     },
 ];
 
@@ -86,6 +81,12 @@ export const Frontend_skill = [
     {
         skill_name: "Vue",
         Image: "/vue.png",
+        width: 80,
+        height: 80,
+    },
+        {
+        skill_name: "Angular",
+        Image: "/angular.svg",
         width: 80,
         height: 80,
     },
